@@ -18,7 +18,7 @@
 
                 <asp:Repeater ID="DataRepeater" runat="server">
                     <HeaderTemplate>
-                        <h2>HOME PAGE</h2>
+                        <h2>CREDIT HOME PAGE</h2>
                         <table>
                             <tr>
                                 <th>Customer_Id</th>
