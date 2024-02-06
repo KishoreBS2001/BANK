@@ -21,7 +21,7 @@
                         <h2>CREDIT HOME PAGE</h2>
                         <table>
                             <tr>
-                                <th>Cust ID</th>
+                                <th>CUSTOMER</th>
                                 <th>Customer_Name</th>
                                 <th>DOB</th>
                                 <th>Address</th>
