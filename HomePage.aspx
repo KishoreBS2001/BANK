@@ -21,8 +21,8 @@
                         <h2>HOME PAGE</h2>
                         <table>
                             <tr>
-                                <th>Customer Id</th>
-                                <th>Customer Name</th>
+                                <th>Customer_Id</th>
+                                <th>Customer_Name</th>
                                 <th>DOB</th>
                                 <th>Address</th>
                                 <th>Mobile</th>
@@ -31,7 +31,7 @@
                                 <th>Designation</th>
                                 <th>Company</th>
                                 <th>Numberw_Of_Dependents</th>
-                                <th>AccountNumber</th>
+                                <th>Account_Number</th>
                                 <th>Account_Type</th>
                                 <th>Currenr_Balance</th>
                                 <th colspan="2">ACTION</th>
