@@ -1,0 +1,15 @@
+Start
+Get a number from the user and assign it as 'num'.
+Store a 'num' value to 'originalNum'.
+Initially assign 'rev' is equal to 0.
+check the given number is not equal to 0,then
+Add 'rev' is multiply with 10 and 'num' modulo by 10 and store the value in 'rev'.
+And divide the 'num' by 10 and store it in 'num'
+If the 'originalNum' is equal to 'rev', then
+	display("The given number is palindrome")
+Else
+	display("The given number is not a palindrome") 
+Stop
+
+
+ 

@@ -1,0 +1,20 @@
+#FormDiv {
+    font-family: Arial, sans-serif;
+    border-radius: 45px;
+    background-color: white;
+    margin: 50px 280px;
+    padding: 50px;
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    background-image: url('../Images/img1.jpeg');
+    background-size: cover;
+
+}
+
+input {
+    width: 94%;
+    padding: 10px;
+    margin: 15px 0px;
+    border: 1px solid gainsboro;
+    border-radius: 12px;
+
+}
