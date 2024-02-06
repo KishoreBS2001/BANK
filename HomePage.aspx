@@ -21,7 +21,7 @@
                         <h2>HOME PAGE</h2>
                         <table>
                             <tr>
-                                <th>CusTomeRId</th>
+                                <th>CUSTOMER</th>
                                 <th>Customer_Name</th>
                                 <th>DOB</th>
                                 <th>Address</th>
